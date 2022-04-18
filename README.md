@@ -1,2 +1,1 @@
-# redirector
-Redirector for gamingwithevets.github.io
+GWE's Redirector. Duh.
